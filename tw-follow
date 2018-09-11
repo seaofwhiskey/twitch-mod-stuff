@@ -1,0 +1,11 @@
+#!/bin/sh
+# Simple script to see how long someone's been following a channel
+# Usage: tw-follow channel user
+if [ ! $# = 2 ] ; then
+	echo "tw-follow <channel> <user>"
+	exit 1
+fi
+ACCOUNT=$2
+CHANNEL=$1
+curl "https://2g.be/twitch/following.php?user=${ACCOUNT}&channel=${CHANNEL}&format=mwdhms"
+echo
