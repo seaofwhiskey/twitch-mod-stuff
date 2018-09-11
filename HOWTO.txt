@@ -1,0 +1,35 @@
+1. Read the Twitch command document
+https://help.twitch.tv/customer/en/portal/articles/659095-chat-commands#AllMods
+ 
+2. Read the Twitch ToS and Community Guidelines
+https://www.twitch.tv/p/legal/terms-of-service/
+https://www.twitch.tv/p/legal/community-guidelines/
+https://www.twitch.tv/p/legal/community-guidelines/faq/
+https://www.twitch.tv/p/legal/community-guidelines/harassment/
+ 
+3. Have Google Translate and Urban Dictionary open in separate tabs/windows
+https://translate.google.com
+https://urbandictionary.com
+ 
+4. Learn the commands for the channel bot, within reason
+ 
+5. Basic mod stuff:
+* Timeout users by typing the name if it's hard to click unless they're using homographs in their name (e.g. using I L 1 l, such as tr011er)
+* Purge comments with a 1 second timeout
+* Don't troll back
+* Enforce, in order: US federal speech laws that can get Twitch in legal trouble (Twitch is a US company), Twitch ToS and Community Guidelines, channel rules set by the streamer (written down or not), then use common sense
+* Ban anyone for making death threats, SWATting threats, rape threats, etc. and report to Twitch.  Click on their name, drag the pop-up window a bit to the left, and you'll see three dots.  Click that, and you can report the user.
+* For slow chats, you can click on the name and use the timeout and ban buttons.  For faster chats, type if possible.
+* When chat gets too fast *during a spam attack*, turn on slow mode and r9kmode to purge/timeout/ban.  Enable 1 minute (or more) followers-only mode.
+* Make a new Twitch account that does not follow or subscribe to any channels.  Use that for testing on your own channel to learn how to use commands.
+* Don't argue with the streamer.
+* You can unmod yourself with /unmod yourusername
+
+6. Intermediate mod stuff:
+* Unignore everyone.  Trolls that you ignore are ones you can't time out or ban.  Use https://twitchstuff.3v.fi/ignored/ to find out who you've ignored.
+* If you are getting too many whispers, you can go to https://www.twitch.tv/settings/security and enable "Block Whispers from Strangers".  You will only get a whisper from someone you follow.  Note, this does mean you will miss important messages, as well.  Consider the downsides before enabling this.
+* Mods generally have access to the streamer's automod dashboard: https://www.twitch.tv/<streamername>/dashboard/settings/automod  Use that dashboard to modify permitted and denied phrases to deal with common spam and terms.  Sorry, no regex support.
+
+
+<<< Insert channel-specific rules and guides here >>>
+<<< Insert channel-specific rules and guides here >>>
