@@ -28,7 +28,9 @@ https://urbandictionary.com
 6. Intermediate mod stuff:
 * Unignore everyone.  Trolls that you ignore are ones you can't time out or ban.  Use https://twitchstuff.3v.fi/ignored/ to find out who you've ignored.
 * If you are getting too many whispers, you can go to https://www.twitch.tv/settings/security and enable "Block Whispers from Strangers".  You will only get a whisper from someone you follow.  Note, this does mean you will miss important messages, as well.  Consider the downsides before enabling this.
-* Mods generally have access to the streamer's automod dashboard: https://www.twitch.tv/<streamername>/dashboard/settings/automod  Use that dashboard to modify permitted and denied phrases to deal with common spam and terms.  Sorry, no regex support.
+* Mods generally have access to the streamer's automod dashboard.  Use that dashboard to modify permitted and denied phrases to deal with common spam and terms.  Sorry, no regex support.  You can access it via two ways:
+** https://www.twitch.tv/<streamername>/dashboard/settings/automod
+** Click the gear icon below chat and click "Manage Moderation Settings"
 
 
 <<< Insert channel-specific rules and guides here >>>
