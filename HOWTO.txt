@@ -53,6 +53,19 @@ https://urbandictionary.com
 ** https://www.twitch.tv/<streamername>/dashboard/settings/automod
 ** Click the gear icon below chat and click "Manage Moderation Settings"
 
+7. Tips and tricks
+* Pause/resume the video to reset latency without nuking chat.
+* Popped out videos will continue to see the stream even after a /host
+* The chat user list is delayed on update, so don't rely on it for seeing
+  if someone is in the chat.
+* Collapsing the chat window will remove the user from the list, but they
+  can still be watching and listening to the stream.
+* Going to just the chat is possible by appending "/chat" to the channel URL.
+* Don't accept friend requests you don't recognize.  They may be accounts
+  trolls use to track you (yes, it happens).
+* For two streams, multitwitch.tv works fine.  For 3 or more, direct users
+  to multistre.am instead.
+
 
 <<< Insert channel-specific rules and guides here >>>
 
