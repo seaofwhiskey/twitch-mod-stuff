@@ -35,6 +35,10 @@ https://urbandictionary.com
   channels.  Use that for testing on your own channel to learn how to use
   commands.
 * Don't argue with the streamer.
+* If someone asks for an unban and *you* are the one that banned them,
+  you can unban based on your judgment.  If you aren't the one that
+  banned them, ask the streamer whether the person should be unbanned, or
+  tell the user to ask the streamer directly via whispers, Twitter DM, etc.
 * You can unmod yourself with /unmod yourusername
 
 6. Intermediate mod stuff:
