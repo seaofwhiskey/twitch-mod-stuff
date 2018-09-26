@@ -1,0 +1,33 @@
+#!/bin/sh
+
+usage()
+{
+	echo "Need X & Y"
+	echo "Examples (video, chat):"
+	echo "resizeset 400 260 ; resizeset 400 1135"
+	echo "resizeset 350 240 ; resizeset 350 1155"
+	echo "resizeset 426 270 ; resizeset 426 1125"
+	exit 1
+}
+
+query()
+{
+	xwininfo
+}
+
+resize()
+{
+	x=$1
+	y=$2
+
+	I=$(xwininfo|sed -n  's/^xwininfo: Window id: \(0x[a-f0-9]*\) .*/\1/p')
+	# For e16 users
+	# eesh -e "win_op $I size $x $y"
+	wmctrl -i -r $I  -e 0,-1,-1,$x,$y
+}
+
+case $# in
+	0) query;;
+	2) resize $1 $2;;
+	*) usage;;
+esac
