@@ -7,5 +7,6 @@ if [ ! $# = 2 ] ; then
 fi
 ACCOUNT=$2
 CHANNEL=$1
-curl "https://2g.be/twitch/following.php?user=${ACCOUNT}&channel=${CHANNEL}&format=mwdhms"
+curl "https://api.2g.be/twitch/followage/${CHANNEL}/${ACCOUNT}?format=mwdhms"
 echo
+
