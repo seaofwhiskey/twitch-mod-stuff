@@ -40,6 +40,12 @@ https://urbandictionary.com
   banned them, ask the streamer whether the person should be unbanned, or
   tell the user to ask the streamer directly via whispers, Twitter DM, etc.
 * You can unmod yourself with /unmod yourusername
+* You can click on the user's name for a modal window that gives you the
+  option to read the user's chat, timeout, and ban history.  You can find
+  out who banned the user (if they're banned) and leave comments tied to
+  that user in that particular channel with the "Mod comments" option.
+* If a user isn't in chat, you can still get the moderation history for
+  the user with /user <username>
 
 6. Intermediate mod stuff:
 * Unignore everyone.  Trolls that you ignore are ones you can't time out or
