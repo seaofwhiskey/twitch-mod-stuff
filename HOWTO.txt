@@ -16,6 +16,9 @@ https://urbandictionary.com
 5. Basic mod stuff:
 * Timeout users by typing the name if it's hard to click unless they're
   using homographs in their name (e.g. using I L 1 l, such as tr011er).
+* For hard to type names, click their names.  Then use the ban/timeout
+  buttons in the pop-up.  Don't use mod icons directly in chat as it can
+  scroll and hit the wrong person.
 * Purge comments with a 1 second timeout.
 * Don't troll back.
 * Enforce, in order: US federal speech laws that can get Twitch in legal
