@@ -63,6 +63,10 @@ https://urbandictionary.com
   that user in that particular channel with the "Mod comments" option.
 * If a user isn't in chat, you can still get the moderation history for
   the user with /user <username>
+* Read this Twitch help article, keep it bookmarked and on your bookmark
+  bar for the browser, in case you have to deal with a viewer that is at
+  risk of self-harm:
+https://help.twitch.tv/s/article/twitch-cares-mental-health-support-information
 
 7. Tips and tricks
 * Pause/resume the video to reset latency without nuking chat.
