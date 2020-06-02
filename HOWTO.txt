@@ -29,9 +29,9 @@ https://urbandictionary.com
   and report to Twitch.  Click on their name, drag the pop-up window a bit
   to the left, and you'll see three dots.  Click that, and you can report
   the user.
-* When chat gets too fast *during a spam attack*, turn on slow mode and
-  r9kmode to purge/timeout/ban.  Enable 1 minute (or more) followers-only
-  mode.
+* When chat gets too fast *during a spam attack*, turn on /slow and
+  /uniquechat to purge/timeout/ban.  Enable 1 minute (or more)
+  followers-only mode via /followers 1.
 * Make a new Twitch account that does not follow or subscribe to any
   channels.  Use that for testing on your own channel to learn how to use
   commands.
